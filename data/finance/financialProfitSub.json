@@ -1,0 +1,314 @@
+[
+    {
+        "fieldName": "SECCODE",
+        "fieldChineseName": "证券代码",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "SECNAME",
+        "fieldChineseName": "证券简称",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "STARTDATE",
+        "fieldChineseName": "开始日期",
+        "fieldType": "datetime",
+        "describe": ""
+    },
+    {
+        "fieldName": "ENDDATE",
+        "fieldChineseName": "截止日期",
+        "fieldType": "datetime",
+        "describe": ""
+    },
+    {
+        "fieldName": "F001D",
+        "fieldChineseName": "报告年度",
+        "fieldType": "datetime",
+        "describe": ""
+    },
+    {
+        "fieldName": "F002V",
+        "fieldChineseName": "合并类型编码",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F003V",
+        "fieldChineseName": "合并类型",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F006N",
+        "fieldChineseName": "其中：营业收入",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F007N",
+        "fieldChineseName": "其中：营业成本",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F008N",
+        "fieldChineseName": "营业税金及附加",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F009N",
+        "fieldChineseName": "销售费用",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F010N",
+        "fieldChineseName": "管理费用",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F011N",
+        "fieldChineseName": "堪探费用",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F012N",
+        "fieldChineseName": "财务费用",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F013N",
+        "fieldChineseName": "资产减值损失",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F014N",
+        "fieldChineseName": "加：公允价值变动净收益",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F015N",
+        "fieldChineseName": "投资收益",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F016N",
+        "fieldChineseName": "其中：对联营企业和合营企业的投资收益_",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F017N",
+        "fieldChineseName": "影响营业利润的其他科目",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F018N",
+        "fieldChineseName": "三、营业利润",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F019N",
+        "fieldChineseName": "加：补贴收入",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F020N",
+        "fieldChineseName": "营业外收入",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F021N",
+        "fieldChineseName": "减：营业外支出",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F022N",
+        "fieldChineseName": "其中：非流动资产处置损失",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F023N",
+        "fieldChineseName": "加：影响利润总额的其他科目",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F024N",
+        "fieldChineseName": "四、利润总额",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F025N",
+        "fieldChineseName": "减：所得税",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F026N",
+        "fieldChineseName": "加：影响净利润的其他科目",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F027N",
+        "fieldChineseName": "五、净利润",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F028N",
+        "fieldChineseName": "归属于母公司所有者的净利润",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F029N",
+        "fieldChineseName": "少数股东损益",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F030N",
+        "fieldChineseName": "六、每股收益：",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F031N",
+        "fieldChineseName": "（一）基本每股收益",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F033N",
+        "fieldChineseName": "利息收入",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F034N",
+        "fieldChineseName": "已赚保费",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F035N",
+        "fieldChineseName": "一、营业总收入",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F036N",
+        "fieldChineseName": "二、营业总成本",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F037N",
+        "fieldChineseName": "汇兑收益",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F038N",
+        "fieldChineseName": "七、其他综合收益",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F039N",
+        "fieldChineseName": "八、综合收益总额",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F040N",
+        "fieldChineseName": "其中：归属于母公司",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F041N",
+        "fieldChineseName": "其中：归属于少数股东",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F042N",
+        "fieldChineseName": "手续费及佣金收入",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F043N",
+        "fieldChineseName": "利息支出",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F044N",
+        "fieldChineseName": "手续费及佣金支出",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F045N",
+        "fieldChineseName": "退保金",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F046N",
+        "fieldChineseName": "赔付支出净额",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F047N",
+        "fieldChineseName": "提取保险合同准备金净额",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F048N",
+        "fieldChineseName": "保单红利支出",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F049N",
+        "fieldChineseName": "分保费用",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F050N",
+        "fieldChineseName": "其中：非流动资产处置利得",
+        "fieldType": "numeric",
+        "describe": ""
+    },
+    {
+        "fieldName": "F051N",
+        "fieldChineseName": "其他收益",
+        "fieldType": "numeric",
+        "describe": ""
+    }
+]

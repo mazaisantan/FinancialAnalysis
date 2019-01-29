@@ -1,0 +1,432 @@
+{
+    "id": 120,
+    "name": "SYSAPI03",
+    "alias": "数据浏览器",
+    "describes": "数据浏览器",
+    "createTime": 1531964725000,
+    "updateTime": 1531964797000,
+    "createUser": "admin",
+    "updateUser": "admin",
+    "del": 0,
+    "isDispaly": 1,
+    "relType": 2,
+    "apiList": null,
+    "children": [
+        {
+            "id": 107,
+            "name": "SYSAPI0301",
+            "alias": "1、基本资料",
+            "describes": "1、基本资料",
+            "createTime": 1531475796000,
+            "updateTime": 1531475796000,
+            "createUser": "admin",
+            "updateUser": "admin",
+            "del": 0,
+            "isDispaly": 0,
+            "relType": 1,
+            "apiList": [
+                {
+                    "id": 523,
+                    "name": "p_sysapi1018",
+                    "url": "p_sysapi1018",
+                    "relId": 534,
+                    "status": 1,
+                    "alias": "基本资料"
+                }
+            ],
+            "children": null
+        },
+        {
+            "id": 94,
+            "name": "SYSAPI0303",
+            "alias": "2、股本股东",
+            "describes": "2、股本股东",
+            "createTime": 1531136667000,
+            "updateTime": 1531963547000,
+            "createUser": "admin",
+            "updateUser": "admin",
+            "del": 0,
+            "isDispaly": 0,
+            "relType": 1,
+            "apiList": [
+                {
+                    "id": 246,
+                    "name": "p_stock2213",
+                    "url": "p_stock2213",
+                    "relId": 509,
+                    "status": 1,
+                    "alias": "公司股东实际控制人"
+                },
+                {
+                    "id": 247,
+                    "name": "p_stock2215",
+                    "url": "p_stock2215",
+                    "relId": 541,
+                    "status": 1,
+                    "alias": "公司股本变动"
+                },
+                {
+                    "id": 206,
+                    "name": "p_stock2218",
+                    "url": "p_stock2218",
+                    "relId": 567,
+                    "status": 1,
+                    "alias": "上市公司高管持股变动"
+                },
+                {
+                    "id": 265,
+                    "name": "p_stock2226",
+                    "url": "p_stock2226",
+                    "relId": 543,
+                    "status": 1,
+                    "alias": "股东增（减）持情况"
+                },
+                {
+                    "id": 525,
+                    "name": "p_sysapi1020",
+                    "url": "p_sysapi1020",
+                    "relId": 540,
+                    "status": 1,
+                    "alias": "持股集中度"
+                }
+            ],
+            "children": null
+        },
+        {
+            "id": 108,
+            "name": "SYSAPI0305",
+            "alias": "3、行情指标",
+            "describes": "3、行情指标",
+            "createTime": 1531475796000,
+            "updateTime": 1531475796000,
+            "createUser": "admin",
+            "updateUser": "admin",
+            "del": 0,
+            "isDispaly": 0,
+            "relType": 1,
+            "apiList": [
+                {
+                    "id": 527,
+                    "name": "p_sysapi1021",
+                    "url": "p_sysapi1021",
+                    "relId": 572,
+                    "status": 1,
+                    "alias": "行情数据"
+                }
+            ],
+            "children": null
+        },
+        {
+            "id": 109,
+            "name": "SYSAPI0307",
+            "alias": "4、投资评级",
+            "describes": "4、投资评级",
+            "createTime": 1531475796000,
+            "updateTime": 1531475796000,
+            "createUser": "admin",
+            "updateUser": "admin",
+            "del": 0,
+            "isDispaly": 0,
+            "relType": 1,
+            "apiList": [
+                {
+                    "id": 526,
+                    "name": "p_stock2205",
+                    "url": "p_stock2205",
+                    "relId": 538,
+                    "status": 1,
+                    "alias": "投资评级"
+                }
+            ],
+            "children": null
+        },
+        {
+            "id": 113,
+            "name": "SYSAPI0309",
+            "alias": "5、业绩预期",
+            "describes": "5、业绩预期",
+            "createTime": 1531963805000,
+            "updateTime": 1533032381000,
+            "createUser": "admin",
+            "updateUser": "admin",
+            "del": 0,
+            "isDispaly": 0,
+            "relType": 1,
+            "apiList": [
+                {
+                    "id": 362,
+                    "name": "p_stock2238",
+                    "url": "p_stock2238",
+                    "relId": 544,
+                    "status": 1,
+                    "alias": "上市公司业绩预告"
+                }
+            ],
+            "children": null
+        },
+        {
+            "id": 110,
+            "name": "SYSAPI0311",
+            "alias": "6、分红指标",
+            "describes": "6、分红指标",
+            "createTime": 1531475796000,
+            "updateTime": 1531475796000,
+            "createUser": "admin",
+            "updateUser": "admin",
+            "del": 0,
+            "isDispaly": 0,
+            "relType": 1,
+            "apiList": [
+                {
+                    "id": 524,
+                    "name": "p_sysapi1019",
+                    "url": "p_sysapi1019",
+                    "relId": 571,
+                    "status": 1,
+                    "alias": "分红指标"
+                }
+            ],
+            "children": null
+        },
+        {
+            "id": 95,
+            "name": "SYSAPI0313",
+            "alias": "7、筹资指标",
+            "describes": "7、筹资指标",
+            "createTime": 1531136667000,
+            "updateTime": 1531964105000,
+            "createUser": "admin",
+            "updateUser": "admin",
+            "del": 0,
+            "isDispaly": 0,
+            "relType": 1,
+            "apiList": [
+                {
+                    "id": 253,
+                    "name": "p_stock2229",
+                    "url": "p_stock2229",
+                    "relId": 545,
+                    "status": 1,
+                    "alias": "公司增发股票预案"
+                },
+                {
+                    "id": 254,
+                    "name": "p_stock2230",
+                    "url": "p_stock2230",
+                    "relId": 508,
+                    "status": 1,
+                    "alias": "公司增发股票实施方案"
+                },
+                {
+                    "id": 256,
+                    "name": "p_stock2231",
+                    "url": "p_stock2231",
+                    "relId": 546,
+                    "status": 1,
+                    "alias": "公司配股预案"
+                },
+                {
+                    "id": 257,
+                    "name": "p_stock2232",
+                    "url": "p_stock2232",
+                    "relId": 547,
+                    "status": 1,
+                    "alias": "公司配股实施方案"
+                },
+                {
+                    "id": 258,
+                    "name": "p_stock2233",
+                    "url": "p_stock2233",
+                    "relId": 548,
+                    "status": 1,
+                    "alias": "公司首发股票"
+                }
+            ],
+            "children": null
+        },
+        {
+            "id": 119,
+            "name": "SYSAPI0315",
+            "alias": "8、财务指标",
+            "describes": "8、财务指标",
+            "createTime": 1531964682000,
+            "updateTime": 1532998144000,
+            "createUser": "admin",
+            "updateUser": "admin",
+            "del": 0,
+            "isDispaly": 0,
+            "relType": 2,
+            "apiList": null,
+            "children": [
+                {
+                    "id": 118,
+                    "name": "SYSAPI031507",
+                    "alias": "TTM",
+                    "describes": "TTM",
+                    "createTime": 1531964580000,
+                    "updateTime": 1532998189000,
+                    "createUser": "admin",
+                    "updateUser": "admin",
+                    "del": 0,
+                    "isDispaly": 0,
+                    "relType": 1,
+                    "apiList": [
+                        {
+                            "id": 378,
+                            "name": "p_stock2332",
+                            "url": "p_stock2332",
+                            "relId": 560,
+                            "status": 1,
+                            "alias": "个股TTM财务利润表"
+                        },
+                        {
+                            "id": 379,
+                            "name": "p_stock2333",
+                            "url": "p_stock2333",
+                            "relId": 561,
+                            "status": 1,
+                            "alias": "个股TTM现金流量表"
+                        }
+                    ],
+                    "children": null
+                },
+                {
+                    "id": 117,
+                    "name": "SYSAPI031505",
+                    "alias": "单季度",
+                    "describes": "单季度",
+                    "createTime": 1531964507000,
+                    "updateTime": 1532998191000,
+                    "createUser": "admin",
+                    "updateUser": "admin",
+                    "del": 0,
+                    "isDispaly": 0,
+                    "relType": 1,
+                    "apiList": [
+                        {
+                            "id": 375,
+                            "name": "p_stock2329",
+                            "url": "p_stock2329",
+                            "relId": 557,
+                            "status": 1,
+                            "alias": "个股单季财务利润表"
+                        },
+                        {
+                            "id": 376,
+                            "name": "p_stock2330",
+                            "url": "p_stock2330",
+                            "relId": 569,
+                            "status": 1,
+                            "alias": "个股单季现金流量表"
+                        },
+                        {
+                            "id": 377,
+                            "name": "p_stock2331",
+                            "url": "p_stock2331",
+                            "relId": 559,
+                            "status": 1,
+                            "alias": "个股单季财务指标"
+                        }
+                    ],
+                    "children": null
+                },
+                {
+                    "id": 115,
+                    "name": "SYSAPI031501",
+                    "alias": "报告期",
+                    "describes": "报告期",
+                    "createTime": 1531964214000,
+                    "updateTime": 1532998199000,
+                    "createUser": "admin",
+                    "updateUser": "admin",
+                    "del": 0,
+                    "isDispaly": 0,
+                    "relType": 1,
+                    "apiList": [
+                        {
+                            "id": 266,
+                            "name": "p_stock2300",
+                            "url": "p_stock2300",
+                            "relId": 800,
+                            "status": 1,
+                            "alias": "个股报告期资产负债表"
+                        },
+                        {
+                            "id": 267,
+                            "name": "p_stock2301",
+                            "url": "p_stock2301",
+                            "relId": 801,
+                            "status": 1,
+                            "alias": "个股报告期利润表"
+                        },
+                        {
+                            "id": 268,
+                            "name": "p_stock2302",
+                            "url": "p_stock2302",
+                            "relId": 551,
+                            "status": 1,
+                            "alias": "个股报告期现金表"
+                        },
+                        {
+                            "id": 322,
+                            "name": "p_stock2325",
+                            "url": "p_stock2325",
+                            "relId": 568,
+                            "status": 1,
+                            "alias": "金融类资产负债表2007版"
+                        },
+                        {
+                            "id": 323,
+                            "name": "p_stock2326",
+                            "url": "p_stock2326",
+                            "relId": 553,
+                            "status": 1,
+                            "alias": "金融类利润表2007版"
+                        },
+                        {
+                            "id": 324,
+                            "name": "p_stock2327",
+                            "url": "p_stock2327",
+                            "relId": 554,
+                            "status": 1,
+                            "alias": "金融类现金流量表2007版"
+                        }
+                    ],
+                    "children": null
+                },
+                {
+                    "id": 116,
+                    "name": "SYSAPI031503",
+                    "alias": "财务指标",
+                    "describes": "财务指标",
+                    "createTime": 1531964304000,
+                    "updateTime": 1532998194000,
+                    "createUser": "admin",
+                    "updateUser": "admin",
+                    "del": 0,
+                    "isDispaly": 0,
+                    "relType": 1,
+                    "apiList": [
+                        {
+                            "id": 269,
+                            "name": "p_stock2303",
+                            "url": "p_stock2303",
+                            "relId": 555,
+                            "status": 1,
+                            "alias": "个股报告期指标表"
+                        },
+                        {
+                            "id": 162,
+                            "name": "p_stock2501",
+                            "url": "p_stock2501",
+                            "relId": 576,
+                            "status": 1,
+                            "alias": "财务指标行业排名"
+                        }
+                    ],
+                    "children": null
+                }
+            ]
+        }
+    ]
+}

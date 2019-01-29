@@ -1,0 +1,242 @@
+[
+    {
+        "fieldName": "SECCODE",
+        "fieldChineseName": "股票代码",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "SECNAME",
+        "fieldChineseName": "股票简称",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "INDID",
+        "fieldChineseName": "行业ID",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "INDNAME",
+        "fieldChineseName": "行业名称",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F001V",
+        "fieldChineseName": "行业级别",
+        "fieldType": "varchar",
+        "describe": "1001 证监会一级行业 1002 证监会二级行业 1003申万行业一级 1004申万行业二级 1005申万行业三级"
+    },
+    {
+        "fieldName": "F002V",
+        "fieldChineseName": "级别说明",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F003D",
+        "fieldChineseName": "报告期",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F004N",
+        "fieldChineseName": "每股收益",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F005N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": "SUM(净利润)/ SUM(股本)"
+    },
+    {
+        "fieldName": "F006N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F007N",
+        "fieldChineseName": "扣除后每股收益",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F008N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": "SUM(扣除非经常性损益后的净利)/SUM(股本)"
+    },
+    {
+        "fieldName": "F009N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F010N",
+        "fieldChineseName": "每股净资产",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F011N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F012N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F013N",
+        "fieldChineseName": "净资产收益率",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F014N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F015N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F016N",
+        "fieldChineseName": "每股未分配利润",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F017N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F018N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F019N",
+        "fieldChineseName": "每股经营现金流量",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F020N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F021N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F022N",
+        "fieldChineseName": "营业收入增长率",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F023N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F024N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F025N",
+        "fieldChineseName": "净利润增长率",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F026N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F027N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F028N",
+        "fieldChineseName": "毛利率",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F029N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F030N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F031N",
+        "fieldChineseName": "资产负债率",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F032N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F033N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F034N",
+        "fieldChineseName": "应收帐款周转率",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F035N",
+        "fieldChineseName": "行业均值",
+        "fieldType": "varchar",
+        "describe": ""
+    },
+    {
+        "fieldName": "F036N",
+        "fieldChineseName": "行业排名",
+        "fieldType": "varchar",
+        "describe": ""
+    }
+]

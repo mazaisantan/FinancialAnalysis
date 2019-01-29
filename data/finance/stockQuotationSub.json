@@ -1,0 +1,278 @@
+[
+    {
+        "fieldName": "SECCODE",
+        "fieldChineseName": "股票代码",
+        "fieldType": "VARCHAR",
+        "describe": ""
+    },
+    {
+        "fieldName": "SECNAME",
+        "fieldChineseName": "股票简称",
+        "fieldType": "VARCHAR",
+        "describe": ""
+    },
+    {
+        "fieldName": "F001D",
+        "fieldChineseName": "交易日期",
+        "fieldType": "DATE",
+        "describe": ""
+    },
+    {
+        "fieldName": "F002V",
+        "fieldChineseName": "交易所",
+        "fieldType": "VARCHAR",
+        "describe": ""
+    },
+    {
+        "fieldName": "F003N",
+        "fieldChineseName": "今日开盘价",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F004N",
+        "fieldChineseName": "最高成交价",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F005N",
+        "fieldChineseName": "最低成交价",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F006N",
+        "fieldChineseName": "收盘价",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F007N",
+        "fieldChineseName": "成交数量",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F008N",
+        "fieldChineseName": "成交金额",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F009N",
+        "fieldChineseName": "涨跌",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F010N",
+        "fieldChineseName": "涨跌幅",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F011N",
+        "fieldChineseName": "昨收盘价",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F012N",
+        "fieldChineseName": "总笔数",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F013N",
+        "fieldChineseName": "发行总股本",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F014N",
+        "fieldChineseName": "流通股本",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F015N",
+        "fieldChineseName": "市盈率",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F016N",
+        "fieldChineseName": "换手率",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F017N",
+        "fieldChineseName": "5日平均（MA5）",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F018N",
+        "fieldChineseName": "10日平均（MA10）",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F019N",
+        "fieldChineseName": "30日平均（MA30）",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F020N",
+        "fieldChineseName": "120日均价",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F021N",
+        "fieldChineseName": "52周均价（360日）均价",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F024N",
+        "fieldChineseName": "本日融资余额",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F025N",
+        "fieldChineseName": "本日融资买入额",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F026N",
+        "fieldChineseName": "本日融资偿还额",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F027N",
+        "fieldChineseName": "本日融券余量",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F028N",
+        "fieldChineseName": "本日融券卖出量",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F029N",
+        "fieldChineseName": "本日融券偿还量",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F030N",
+        "fieldChineseName": "融券余量金额",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F031N",
+        "fieldChineseName": "融资融券余额",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F032N",
+        "fieldChineseName": "市盈率LYR",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F033N",
+        "fieldChineseName": "市盈率TTM",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F034N",
+        "fieldChineseName": "市盈率LYR（扣非）",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F035N",
+        "fieldChineseName": "市盈率TTM（扣非）",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F036N",
+        "fieldChineseName": "市净率LF",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F037N",
+        "fieldChineseName": "市销率LYR",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F038N",
+        "fieldChineseName": "市销率TTM",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F039N",
+        "fieldChineseName": "市现率LYR（经营）",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F040N",
+        "fieldChineseName": "市现率TTM（经营）",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F041N",
+        "fieldChineseName": "市现率LYR（总）",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F042N",
+        "fieldChineseName": "市现率TTM（总）",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F043N",
+        "fieldChineseName": "股息率LYR",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F044N",
+        "fieldChineseName": "股息率TTM",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F045N",
+        "fieldChineseName": "PEG",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    },
+    {
+        "fieldName": "F046N",
+        "fieldChineseName": "EV/EBITDA",
+        "fieldType": "DECIMAL",
+        "describe": ""
+    }
+]
